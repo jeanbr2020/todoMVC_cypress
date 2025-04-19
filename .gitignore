@@ -30,3 +30,7 @@ cypress/screenshots
 js/*.js
 
 results/
+
+.idea
+
+bootcamp-todomvc.iml
